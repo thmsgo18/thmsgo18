@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 **Master student in Distributed Artificial Intelligence** at [Université Paris Cité]([https://math-info.u-paris.fr](https://math-info.u-paris.fr/master-informatique/parcours-intelligence-artificielle-distribuee/))  
+🎓 **Master student in Distributed Artificial Intelligence** at [Université Paris Cité](https://math-info.u-paris.fr/master-informatique/parcours-intelligence-artificielle-distribuee/)  
 🤖 Passionate about **Artificial Intelligence**, machine learning, and distributed systems.  
 🧠 Currently working on several **AI-related projects**, exploring real-world applications of intelligent and scalable systems.  
 🚀 Always eager to learn, experiment, and build innovative solutions.
