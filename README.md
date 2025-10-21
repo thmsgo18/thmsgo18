@@ -1,60 +1,57 @@
-# thmsgo18
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4AB3ED&center=true&vCenter=true&width=600&lines=👋+Hey,+I'm+Thom+!;Master+Student+in+Distributed+AI" alt="Typing SVG" />
+</h1>
 
-###
+---
 
-<p align="left">I'm Thomas welcome on my GitHub</p>
+## 🙋‍♂️ About Me
 
-###
+🎓 **Master student in Distributed Artificial Intelligence** at [Université Paris Cité](https://math-info.u-paris.fr)  
+🤖 Passionate about **Artificial Intelligence**, machine learning, and distributed systems.  
+🧠 Currently working on several **AI-related projects**, exploring real-world applications of intelligent and scalable systems.  
+🚀 Always eager to learn, experiment, and build innovative solutions.
 
-<p align="left">Student at <a href="https://math-info.u-paris.fr">Université Paris Cité</a></p>
+---
 
-###
+## 🧰 Tech Stack
 
-<h2 align="left">I code with</h2>
+### 🖥️ Programming Languages & Frameworks
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,symfony,html,css,bash,latex" />
+  <img src="https://img.shields.io/badge/Typst-000000?style=for-the-badge&logo=typst&logoColor=white" alt="Typst logo"/>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-</div>
+---
 
-###
+### 🧪 IDE & Tools
 
-<h2 align="left">Contact</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,idea,clion,figma" />
+</p>
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/thomas-gourmelen-031a382a5/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-</div>
+---
 
-###
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/ChromaDB-4AB3ED?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB logo" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB logo" />
+</p>
+
+---
+
+## 🤝 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomas-gourmelen-031a382a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:thomas@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/thmsgo18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="#top"><img src="https://img.shields.io/badge/🔝%20Back%20to%20Top-blue?style=for-the-badge" alt="Back to top"></a>
+</p>
