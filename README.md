@@ -1,11 +1,11 @@
 <h1 align="center">Thomas Gourmelen</h1>
 
 <p align="center">
-  Master 1 student in Distributed Artificial Intelligence
+  Master 2 student in Distributed Artificial Intelligence
 </p>
 
 <p align="center">
-  I build practical AI systems across machine learning, NLP, LLMs, and agentic workflows.
+  I build agentic AI systems: planning, multi-agent orchestration, and argumentation.
 </p>
 
 <p align="center">
@@ -27,16 +27,33 @@
 
 ## Profile
 
-- Master 1 student focused on applied AI and production-oriented systems.
-- Interested in machine learning, NLP, LLM applications, and agentic architectures.
-- Especially motivated by projects that connect research ideas with usable products.
+- Master 2 student focused on agentic AI and multi-agent systems.
+- I like to start from a concrete problem and look for an innovative way to solve it.
+- I work every day with several LLMs and coding agents (Claude, Claude Code, Codex, ChatGPT) and treat them as a real part of my toolchain.
 
 ## Focus
 
-- Retrieval and semantic search
-- NLP pipelines and transformer-based systems
-- LLM-powered tools and agentic workflows
-- APIs, backend services, and end-to-end AI applications
+- Agentic systems and agent orchestration
+- Planning and automated decision-making
+- Computational argumentation and argument mining
+- Multi-LLM and multi-agent workflows
+- Retrieval, NLP, and end-to-end AI applications
+
+## Current Projects
+
+I'm working on several personal projects in parallel, and they are all public on this profile. Feel free to look around.
+
+If you only check one thing, make it **the Forge**: a set of tools to write LaTeX documents and build presentations with code and AI agents.
+
+| Project | What it does | Stars |
+|---|---|---|
+| [latex-forge](https://github.com/thmsgo18/latex-forge) | CLI to create standalone LaTeX projects from templates | <img src="https://img.shields.io/github/stars/thmsgo18/latex-forge?style=flat-square&color=0F172A&labelColor=0F172A&logo=github&logoColor=93C5FD&label=" alt="Stars"/> |
+| [latex-forge-gallery](https://github.com/thmsgo18/latex-forge-gallery) | 80 curated LaTeX templates, ready to install with latex-forge | <img src="https://img.shields.io/github/stars/thmsgo18/latex-forge-gallery?style=flat-square&color=0F172A&labelColor=0F172A&logo=github&logoColor=93C5FD&label=" alt="Stars"/> |
+| [latex-forge-skill](https://github.com/thmsgo18/latex-forge-skill) | Claude skill to write, build, and export LaTeX documents with latex-forge | <img src="https://img.shields.io/github/stars/thmsgo18/latex-forge-skill?style=flat-square&color=0F172A&labelColor=0F172A&logo=github&logoColor=93C5FD&label=" alt="Stars"/> |
+| [latex-forge-vscode](https://github.com/thmsgo18/latex-forge-vscode) | VS Code extension to create and manage LaTeX projects without leaving the editor | <img src="https://img.shields.io/github/stars/thmsgo18/latex-forge-vscode?style=flat-square&color=0F172A&labelColor=0F172A&logo=github&logoColor=93C5FD&label=" alt="Stars"/> |
+| [presentation-forge](https://github.com/thmsgo18/presentation-forge) | Claude skill to build self-contained HTML presentations and import brand themes | <img src="https://img.shields.io/github/stars/thmsgo18/presentation-forge?style=flat-square&color=0F172A&labelColor=0F172A&logo=github&logoColor=93C5FD&label=" alt="Stars"/> |
+
+> ⭐ If you find a project you like, don't hesitate to star the repo. It helps me see what's useful and keeps me building.
 
 ## Tech Stack
 
@@ -55,6 +72,15 @@
   <img height="36" src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF" alt="CSS"/>
   <img height="36" src="https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=58A6FF" alt="LaTeX"/>
   <img height="36" src="https://img.shields.io/badge/Typst-0D1117?style=for-the-badge&logo=typst&logoColor=58A6FF" alt="Typst"/>
+</p>
+
+### LLMs and AI Agents
+
+<p>
+  <img height="36" src="https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=79C0FF" alt="Claude"/>
+  <img height="36" src="https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=claude&logoColor=79C0FF" alt="Claude Code"/>
+  <img height="36" src="https://img.shields.io/badge/Codex-0D1117?style=for-the-badge&logoColor=79C0FF" alt="Codex"/>
+  <img height="36" src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logoColor=79C0FF" alt="ChatGPT"/>
 </p>
 
 ### AI, ML, and Data
@@ -115,10 +141,6 @@
   <img height="36" src="https://img.shields.io/badge/IntelliJ-0D1117?style=for-the-badge&logo=intellijidea&logoColor=58A6FF" alt="IntelliJ"/>
   <img height="36" src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=58A6FF" alt="Figma"/>
 </p>
-
-## Current Project
-
-Music recognition engine combining vector search, embeddings, and audio analysis.
 
 ## Contact
 
